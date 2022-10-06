@@ -5,5 +5,5 @@ Excel为各类模型的简要介绍、适用范围、优缺点等
 
 以上给出了其中基于MATLAB实现的模型代码
 
-if you have any problem, you can email a1309382832@foxmail.com
+if you have any question, you can email a1309382832@foxmail.com
 Mathematical Modeling
